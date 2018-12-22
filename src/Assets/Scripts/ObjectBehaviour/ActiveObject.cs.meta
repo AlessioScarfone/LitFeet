@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b091b199e8356a14eb3e8ecafca00c77
+timeCreated: 1523539610
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sound_cant_active: {fileID: 8300000, guid: deb9022494468cd4d82d040256b0396a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
